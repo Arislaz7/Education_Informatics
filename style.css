@@ -1,0 +1,97 @@
+/*me # anazitoume ids */
+
+
+
+body{
+    background-color: #eeeeeeee ;
+    font-family: montserrat;
+}
+
+
+#header{
+    background-color: hsl(153, 48%, 17%);
+    color:white;
+    /*title center*/
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+h1 {
+    /*perithwrio apo panw*/
+    margin: 0;
+}
+
+#container{
+    background-color: white;
+    /*platos selidas*/
+    width: 800px;
+}
+
+
+#content{
+    /*perithwria aristera kai deksia */
+    /*padding 10px*/
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#main ul{
+    width: 500px;
+    float: right;
+    
+
+}
+#main li{
+    border-top-left-radius: 100px;
+    width: 400px;
+    float: right;
+
+}
+
+#main ol{
+    width: 400px;
+    float: right;
+    
+}
+
+#main h2{
+    text-align: center;
+}
+
+
+
+#nav{
+    width: 100px;
+    float:left;
+    padding: auto;
+    background-color: hsl(284, 83%, 84%);
+    
+}
+
+
+
+#main{
+    width:700px;
+    /*stoixisi sta deksia*/
+    float:right;
+    background-color: rgb(202, 202, 180);
+    
+}
+
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: #999;
+    text-align: end;
+    color:white;
+}
+
